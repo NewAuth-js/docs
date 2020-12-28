@@ -1,7 +1,8 @@
 {
-  "name": "docs",
-  "version": "0.1.0",
-  "private": true,
+  "name": "newauth-docs",
+  "version": "0.0.1",
+  "author": "Jack <heyjack@heyjack.info>",
+  "license": "MIT",
   "scripts": {
     "dev": "eslint --fix && next dev",
     "build": "next build",
