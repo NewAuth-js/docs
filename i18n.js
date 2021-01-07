@@ -1,10 +1,10 @@
 module.exports = {
-    locales: ['en', 'fr', 'de'],
+    locales: ['en', 'fr', 'de', 'es', 'hi', 'ru'],
     defaultLocale: 'en',
     pages: {
         '*': ['common'],
         '/': ['index'],
-        '/coming-soon': ['coming-soon'],
+        '/coming_soon': ['coming_soon'],
         '/about': ['about'],
         '/supporters': ['supporters'],
     },

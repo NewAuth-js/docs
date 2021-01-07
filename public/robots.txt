@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /discord/
+
+    Sitemap: https://your-url.com/sitemap.xml

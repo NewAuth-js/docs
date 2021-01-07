@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import useTranslation from "next-translate/useTranslation";
+import useTranslation from 'next-translate/useTranslation'
 
 
 function About() {
