@@ -1,0 +1,10 @@
+{
+  "title": "NewAuth",
+  "subtitle": "Coming Soon",
+  "description": "NewAuth is a new better authentication middleware for Node.js.",
+  "github": "NewAuth's Github",
+  "yarn": "NewAuth's Yarn",
+  "npm": "NewAuth's NPM",
+  "discord": "NewAuth's Discord",
+  "cdnjs": "NewAuth's cdnjs"
+}
